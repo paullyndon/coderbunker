@@ -3,5 +3,9 @@ body{
 }
 
 .navbar{
-  background-color: green;
+  text-align: center;
+}
+
+.profile{
+  height: 150px;
 }
